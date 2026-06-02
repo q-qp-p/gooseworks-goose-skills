@@ -1,5 +1,7 @@
 <div align="center">
 
+> 🎬 **New:** Check out [**goose-video**](https://github.com/gooseworks-ai/goose-video) — our library of AI video generation skills.
+
 <img width="1270" height="760" alt="1" src="https://github.com/user-attachments/assets/60212c5c-e372-455c-a937-2ff16e235ee6" />
 
 
